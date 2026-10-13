@@ -1,0 +1,19 @@
+corpus,tokenizer,pairs,tokens_en,tokens_fr,tax,ci_low,ci_high,chars_per_token_en,chars_per_token_fr
+"news (WMT14, human translation)",(characters),3003,,,0.1464,0.1399,0.1532,,
+"news (WMT14, human translation)",GPT-4 / 3.5 (cl100k),3003,77348,119285,0.5422,0.5323,0.553,4.809,3.575
+"news (WMT14, human translation)",GPT-4o (o200k),3003,76521,100766,0.3168,0.3088,0.325,4.861,4.232
+"news (WMT14, human translation)",Llama 3,3003,77335,118976,0.5384,0.5285,0.5492,4.81,3.584
+"news (WMT14, human translation)",Mistral 7B v0.3,3003,85833,132530,0.544,0.5341,0.5544,4.334,3.218
+"news (WMT14, human translation)",Mistral Nemo (Tekken),3003,79641,101573,0.2754,0.2676,0.2831,4.671,4.198
+"news (WMT14, human translation)",Qwen 2.5,3003,78638,119150,0.5152,0.5053,0.5258,4.73,3.579
+"news (WMT14, human translation)",Gemma 3,3003,78053,106500,0.3645,0.3557,0.3738,4.766,4.004
+"news (WMT14, human translation)",CroissantLLM (FR-EN),3003,85285,96308,0.1292,0.1234,0.1354,4.362,4.428
+"admin questions (Guichet, MT)",(characters),104,,,0.1585,0.1243,0.1899,,
+"admin questions (Guichet, MT)",GPT-4 / 3.5 (cl100k),104,2328,3244,0.3935,0.3431,0.4429,4.319,3.591
+"admin questions (Guichet, MT)",GPT-4o (o200k),104,2233,2656,0.1894,0.1519,0.2263,4.503,4.386
+"admin questions (Guichet, MT)",Llama 3,104,2328,3241,0.3922,0.3417,0.442,4.319,3.594
+"admin questions (Guichet, MT)",Mistral 7B v0.3,104,2515,3666,0.4577,0.4017,0.5141,3.998,3.178
+"admin questions (Guichet, MT)",Mistral Nemo (Tekken),104,2330,2734,0.1734,0.1337,0.2116,4.315,4.261
+"admin questions (Guichet, MT)",Qwen 2.5,104,2327,3182,0.3674,0.3196,0.4142,4.321,3.661
+"admin questions (Guichet, MT)",Gemma 3,104,2321,2860,0.2322,0.1884,0.276,4.332,4.073
+"admin questions (Guichet, MT)",CroissantLLM (FR-EN),104,2333,2452,0.051,0.0159,0.0846,4.31,4.751
